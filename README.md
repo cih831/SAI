@@ -1,4 +1,4 @@
-![image](/uploads/a96fc83be7c9523e23cadea4af27d9d4/image.png)
+![image](./front/src/assets/logo2.png)
 
 # 웹서비스 소개
 
@@ -54,32 +54,32 @@ Face API를 이용한 표정분석
   <tr>
     <td align="center" width="150px">
       <a href="https://github.com/cih831" target="_blank">
-        <img src="/uploads/f50ed29f5e5cb395e08f9aaf1ab1ddd0/image.png" alt="최인호 프로필" />
+        <img src="./front/src/assets/그림1.png" alt="최인호 프로필" />
       </a>
     </td>
     <td align="center" width="150px">
       <a href="#" target="_blank">
-        <img src="/uploads/30eb7d89542ecece03f421638327e35a/image.png" alt="김지수 프로필" />
+        <img src="./front/src/assets/그림3.png" alt="김지수 프로필" />
       </a>
     </td>
     <td align="center" width="150px">
       <a href="#" target="_blank">
-        <img src="/uploads/fd220bd593e4692498289ba0cd328050/image.png" alt="윤형준 프로필" />
+        <img src="./front/src/assets/그림2.png" alt="윤형준 프로필" />
       </a>
     </td>
     <td align="center" width="150px">
       <a href="https://github.com/jg6735" target="_blank">
-        <img src="/uploads/7814fe722369bce8eeb7484103c5e4f8/image.png" alt="지근 프로필" />
+        <img src="./front/src/assets/그림4.png" alt="지근 프로필" />
       </a>
     </td>
     <td align="center" width="150px">
       <a href="https://github.com/simjaeseo" target="_blank">
-        <img src="/uploads/754059cebbec97d3f7228f521ad9f9d0/image.png" alt="심재서 프로필" />
+        <img src="./front/src/assets/그림6.png" alt="심재서 프로필" />
       </a>
     </td>
     <td align="center" width="150px">
       <a href="https://github.com/Givem2thekey" target="_blank">
-        <img src="/uploads/044cc950ab727ae05ca3b21972ea360b/image.png" alt="조덕희 프로필" />
+        <img src="./front/src/assets/그림5.png" alt="조덕희 프로필" />
       </a>
     </td>
   </tr>
@@ -129,41 +129,26 @@ Face API를 이용한 표정분석
 | 지근 |     Back-end      | - 회원 도메인 설계 및 개발<br />- 회원 기능 API 개발<br />- 스프링 시큐리티, JWT 인증을 통한 회원가입 / 로그인 구현<br />- 면접 영상 도메인 설계 및 개발<br />- 면접 정보 및 피드백 관련 API 개발<br />- 회원, 일정, 면접 영상 JPA 개발, 리팩토링<br />- Nginx 웹서버 구축 및 배포<br />- Nginx SSL 적용 |
 | 심재서 |     Back-end      | - DB 설계<br />- 일정 도메인 설계 및 개발<br />- 면접 저장 도메인 설계 및 개발<br />- Openvidu 서버 배포<br />- jave 라이브러리를 활용한 mp4 면접파일을 flac 음성파일로 변환<br />- AWS S3, Google Cloud Storage를 활용하여 면접 영상 파일, 음성 파일 저장 기능 구현<br />- Google Speech API를 활용하여 저장된 음성 파일을 스크립트로 변환 (STT 기능)<br />- Spring Boot에 SSL 적용                                                                                                                                                                                                                          |
 | 조덕희 |     Back-end      | - 면접 질문 도메인 설계 및 개발<br />- Teachable Machine 통한 자세 인식 모델 학습 및 구현<br />- 면접 질문 데이터 수집<br />- 산출물 관리 (ERD 정리 및 시연시나리오 작성)
-|
+
 
 
 ## 기술 스택
 #### FE
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
 <br>
 
 #### BE
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
-<img src="https://img.shields.io/badge/jpa-6DB33F?style=for-the-badge&logo=jpa&logoColor=white">
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"><img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"><img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"><img src="https://img.shields.io/badge/jpa-6DB33F?style=for-the-badge&logo=jpa&logoColor=white">
 <br>
 
 #### Infra
-<img src="https://img.shields.io/badge/Nginx-009639C?style=for-the-badge&logo=Nginx&logoColor=white">
-<img src="https://img.shields.io/badge/Aws-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
-<img src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
+<img src="https://img.shields.io/badge/Nginx-009639C?style=for-the-badge&logo=Nginx&logoColor=white"><img src="https://img.shields.io/badge/Aws-569A31?style=for-the-badge&logo=amazons3&logoColor=white"><img src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
 <br>
 
 #### IDE
-<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
-<img src="https://img.shields.io/badge/Inteelij-000000?style=for-the-badge&logo=Intellijidea&logoColor=white">
+<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"><img src="https://img.shields.io/badge/Inteelij-000000?style=for-the-badge&logo=Intellijidea&logoColor=white">
 <br>
 
 #### Tool
-<img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
-<img src="https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=Mattermost&logoColor=white">
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=JIRAsoftware&logoColor=white">
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"><img src="https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=Mattermost&logoColor=white"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=JIRAsoftware&logoColor=white"><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"><img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 <br>
